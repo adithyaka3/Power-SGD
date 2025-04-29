@@ -83,3 +83,4 @@ If you use this code, please cite the following [paper](https://arxiv.org/abs/19
       year = 2019,
       url = {https://arxiv.org/abs/1905.13727}
     }
+# Power-SGD
